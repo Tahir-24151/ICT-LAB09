@@ -10,14 +10,27 @@ ul{
     color:brown;
     text-decoration: underline;
 }
-.first-div {
-    width: 500px;
-    height: 500px;
-    background-color: lightblue;
+
+.first-div
+{
+    width: 480px;
+    height: 80px;
+    background-color: beige; 
     border-width: 3px;
-    border-color:darkgrey;
     border-style: solid;
-    border-radius: 20%;
+    border-color: tomato; 
+    border-radius: 15%;
     margin: 10px;
     padding: 5px;
+}
+.normal-para
+{
+    color: green;
+}
+.fav-para
+{
+    color: purple;
+}
+body{
+    background-color: burlywood;
 }
