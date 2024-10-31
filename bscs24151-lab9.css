@@ -2,35 +2,3 @@
     width: 500;
     height: 600;
 }
-ol {
-    color: brown;
-    text-decoration: underline;
-}
-ul{
-    color:brown;
-    text-decoration: underline;
-}
-
-.first-div
-{
-    width: 480px;
-    height: 80px;
-    background-color: beige; 
-    border-width: 3px;
-    border-style: solid;
-    border-color: tomato; 
-    border-radius: 15%;
-    margin: 10px;
-    padding: 5px;
-}
-.normal-para
-{
-    color: green;
-}
-.fav-para
-{
-    color: purple;
-}
-body{
-    background-color: burlywood;
-}
