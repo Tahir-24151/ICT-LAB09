@@ -1,0 +1,23 @@
+.image {
+    width: 500;
+    height: 600;
+}
+ol {
+    color: brown;
+    text-decoration: underline;
+}
+ul{
+    color:brown;
+    text-decoration: underline;
+}
+.first-div {
+    width: 500px;
+    height: 500px;
+    background-color: lightblue;
+    border-width: 3px;
+    border-color:darkgrey;
+    border-style: solid;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+}
